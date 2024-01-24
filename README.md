@@ -8,4 +8,5 @@ Each file has the following columns:
 * $n$
 * $m$
 * $n/m$
+* (Files beginning with `vnodes_*` only) Number of explored nodes
 * A few zeroes which have no meaning
